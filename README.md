@@ -4,4 +4,7 @@ An Arabic translation of [TeachYourselfCS](https://teachyourselfcs.com/).
 
 ترجمة عربية لـ [علم نفسك علم الحاسوب - TeachYourselfCS](https://teachyourselfcs.com/).
 
+# فهرس
+[الترجمة العربية](./TeachYourselfCS-AR.md)
+
 </div>
